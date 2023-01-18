@@ -1,0 +1,9 @@
+variable "vpc_id" {
+
+}
+variable "cidr_block" {
+  
+}
+variable "subnet_tags" {
+    
+}
